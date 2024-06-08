@@ -21,6 +21,7 @@ The project's aim is to train a machine learning model to effectively classify j
 
 ![After handling missing values](https://github.com/enjy46/Rapid-Miner-Machine-Learning-Project/blob/main/Screenshot%20(293).png)
 ![After handling missing values](https://github.com/enjy46/Rapid-Miner-Machine-Learning-Project/blob/main/Screenshot%20(294).png)
+![After handling missing values](https://github.com/enjy46/Rapid-Miner-Machine-Learning-Project/blob/main/Screenshot%20(295).png)
 
 ### 3. Data Modeling and Evaluation
 **Model Used:** Decision Trees
